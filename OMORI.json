@@ -5,7 +5,7 @@
   "author": "OMOCAT",
   "cover": "https://pbs.twimg.com/media/GOSxjCobgAAXx33.jpg:large",
   "chapters": {
-    "Chapter 1:": {
+    "01": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/5rvf0mD/"
       },
@@ -13,7 +13,7 @@
       "title": "Dear Little Brother",
       "volume": "1"
     },
-    "Chapter 2:": {
+    "02": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/jg0VJ3X/"
       },
@@ -21,7 +21,7 @@
       "title": "A Home For Flowers",
       "volume": "1"
     },
-    "Chapter 3:": {
+    "03": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/xk5zuZH/"
       },
@@ -29,7 +29,7 @@
       "title": "It Means Everything",
       "volume": "1"
     },
-    "Chapter 4:": {
+    "04": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/pNT6spT/"
       },
@@ -37,7 +37,7 @@
       "title": "Do You Remember",
       "volume": "1"
     },
-    "Chapter 5:": {
+    "05": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/a0ww7Rd/"
       },
