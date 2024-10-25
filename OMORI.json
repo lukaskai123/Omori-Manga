@@ -5,6 +5,14 @@
   "author": "OMOCAT",
   "cover": "https://pbs.twimg.com/media/GOSxjCobgAAXx33.jpg:large",
   "chapters": {
+    "02": {
+      "groups": {
+        "DREAMER": "/proxy/api/imgur/chapter/jg0VJ3X/"
+      },
+      "last_updated": "1616368746",
+      "title": "A Home For Flowers",
+      "volume": "1"
+    },
     "03": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/xk5zuZH/"
