@@ -5,43 +5,43 @@
   "author": "OMOCAT",
   "cover": "https://pbs.twimg.com/media/GOSxjCobgAAXx33.jpg:large",
   "chapters": {
-    "01": {
+    "Chapter 1:": {
       "groups": {
-        "DREAMER": "/proxy/api/imgur/chapter/HeVc0V5/"
+        "DREAMER": "/proxy/api/imgur/chapter/5rvf0mD/"
       },
-      "last_updated": "1616368746",
+      "last_updated": "1719198000",
       "title": "Dear Little Brother",
       "volume": "1"
     },
-    "02": {
+    "Chapter 2:": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/jg0VJ3X/"
       },
-      "last_updated": "1616368746",
+      "last_updated": "1721790000",
       "title": "A Home For Flowers",
       "volume": "1"
     },
-    "03": {
+    "Chapter 3:": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/xk5zuZH/"
       },
-      "last_updated": "1616368746",
+      "last_updated": "1724365175",
       "title": "It Means Everything",
       "volume": "1"
     },
-    "04": {
+    "Chapter 4:": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/pNT6spT/"
       },
-      "last_updated": "1616368746",
+      "last_updated": "1727216375",
       "title": "Do You Remember",
       "volume": "1"
     },
-    "05": {
+    "Chapter 5:": {
       "groups": {
-        "DREAMER": "/proxy/api/imgur/chapter/omori-chapter-5-manga-a0ww7Rd/"
+        "DREAMER": "/proxy/api/imgur/chapter/a0ww7Rd/"
       },
-      "last_updated": "1616368746",
+      "last_updated": "1729808375",
       "title": "You Were Wrong. Go Back.",
       "volume": "1"
     }
