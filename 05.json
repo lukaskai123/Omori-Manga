@@ -5,13 +5,20 @@
   "author": "OMOCAT",
   "cover": "https://pbs.twimg.com/media/GOSxjCobgAAXx33.jpg:large",
   "chapters": {
+    "04": {
+      "title": "Do You Remember",
+      "volume": "1",
+      "last_updated": "1616368746"
+      "groups": {
+        "DREAMER": "/proxy/api/imgur/chapter/omori-chapter-4-manga-wUWUs9Q/"
+      },
     "05": {
       "title": "You Were Wrong. Go Back.",
       "volume": "1",
+      "last_updated": "1616368746"
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/omori-chapter-5-manga-a0ww7Rd/"
       },
-      "last_updated": "1616368746"
     }
   }
 }
