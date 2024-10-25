@@ -5,6 +5,14 @@
   "author": "OMOCAT",
   "cover": "https://pbs.twimg.com/media/GOSxjCobgAAXx33.jpg:large",
   "chapters": {
+    "03": {
+      "groups": {
+        "DREAMER": "/proxy/api/imgur/chapter/xk5zuZH/"
+      },
+      "last_updated": "1616368746",
+      "title": "It Means Everything",
+      "volume": "1"
+    },
     "04": {
       "groups": {
         "DREAMER": "/proxy/api/imgur/chapter/pNT6spT/"
