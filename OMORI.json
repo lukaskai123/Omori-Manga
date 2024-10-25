@@ -5,12 +5,12 @@
   "author": "OMOCAT",
   "cover": "https://pbs.twimg.com/media/GOSxjCobgAAXx33.jpg:large",
   "chapters": {
-    "05": {
+    "03": {
       "groups": {
-        "DREAMER": "proxy/api/imgur/chapter/a0ww7Rd/"
+        "DREAMER": "/proxy/api/imgur/chapter/xk5zuZH/"
       },
       "last_updated": "1616368746",
-      "title": "You Were Wrong. Go Back.",
+      "title": "It Means Everything",
       "volume": "1"
     },
     "04": {
@@ -21,12 +21,12 @@
       "title": "Do You Remember",
       "volume": "1"
     },
-    "03": {
+    "05": {
       "groups": {
-        "DREAMER": "/proxy/api/imgur/chapter/xk5zuZH/"
+        "DREAMER": "/proxy/api/imgur/chapter/omori-chapter-5-manga-a0ww7Rd/"
       },
       "last_updated": "1616368746",
-      "title": "It Means Everything",
+      "title": "You Were Wrong. Go Back.",
       "volume": "1"
     }
   }
